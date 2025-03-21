@@ -1,0 +1,1 @@
+Challenge Amigo Secreto G8 - Alura Esse projeto faz parte do projeto One-G8 Alura, é meu primerio desafio, na mimha transição de carreira, nunca tinha tido contato com programação. Tudo foi desafador , desde da primeira linha até as inúmeras tentativas de limpar a lista de nomes, mas conseguir.
